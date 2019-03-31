@@ -1,5 +1,5 @@
 +++
 draft = true
-image = "/img/HR1.jpeg"
-showonlyimage = true 
+image = "img/HR1.jpg"
+showonlyimage = true
 +++
