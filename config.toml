@@ -19,7 +19,7 @@ theme = "hugo-creative-portfolio-theme"
 
 [[params.navlinks]]
   name = "About us"
-  url = "AboutUs.md"
+  url = "about/"
 
 [[params.navlinks]]
   name = "Volunteer with us"
