@@ -1,0 +1,20 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Hasiru Ratha"
+debug = true
+
+[params]
+    style = "default"
+    copyright = "&copy;2019 Hasiru-Ratha"
+    sidebarAbout = [
+    "We are volunteer based organization planting, sustaining and maintaining trees around South Bangalore",
+    "Currently active around Jayanagar, Basavanagudi, Gandhi Bazaar"
+    ]
+
+[[params.navlinks]]
+  name = "About us"
+  url = "AboutUs.md"
+
+[[params.navlinks]]
+  name = "Volunteer with us"
+  url = "Volunteer/"
