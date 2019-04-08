@@ -23,4 +23,4 @@ theme = "hugo-creative-portfolio-theme"
 
 [[params.navlinks]]
   name = "Volunteer with us"
-  url = "Volunteer/"
+  url = "volunteer/"
