@@ -8,8 +8,7 @@ theme = "hugo-creative-portfolio-theme"
     style = "default"
     copyright = "&copy;2019 Hasiru-Ratha"
     sidebarAbout = [
-    "We are volunteer based organization planting, sustaining and maintaining trees around South Bangalore",
-    "Currently active around Jayanagar, Basavanagudi, Gandhi Bazaar"
+    "We are volunteer based organization involved in planting and sustaining saplings around South Bangalore. Our intention is to not only plant saplings but also provide for them till they grow into trees"
     ]
 
 [[params.navlinks]]
@@ -24,3 +23,7 @@ theme = "hugo-creative-portfolio-theme"
 [[params.navlinks]]
   name = "Volunteer with us"
   url = "volunteer/"
+
+[[params.navlinks]]
+  name = "Media"
+  url = "Media"
