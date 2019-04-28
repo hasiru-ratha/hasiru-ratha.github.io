@@ -6,7 +6,7 @@ draft: false
 
 What is Hasiru Ratha?
 ====
-<img src="/about/HR12.jpeg" alt="Hasiru-Ratha" style="height:200px; float:right"/>
+<img src="/img/about/HR12.jpeg" alt="Hasiru-Ratha" style="height:200px; float:right"/>
 Hasiru Ratha literally means "Green Chariot" in Kannada, that is the name we use
 to refer the Maruti Suzuki Eeco Van which we use during our activities. It is
 generally adapted according the purpose of that mornings activities. In summer
@@ -21,7 +21,7 @@ near Yediyur circle and later on he purchased the van with his own money.
 
 The Group
 -----
-<img src="/about/HR13.jpeg" alt="Hasiru-Ratha" style="height:200px; float:right"/>
+<img src="/img/about/HR13.jpeg" alt="Hasiru-Ratha" style="height:200px; float:right"/>
 Manya Nagaraj has since inspired many people to join him in his endevours to
 save the plants and Hasiru Ratha has grown with more and more people taking
 interest in its activities. We are currently about 20 active members from
@@ -30,7 +30,7 @@ attend to everything that the saplings need
 
 Activities
 ----
-<img src="/about/Group.jpeg" alt="Hasiru-Ratha" style="height:200px; float:right"/>
+<img src="/img/about/Group.jpeg" alt="Hasiru-Ratha" style="height:200px; float:right"/>
 Generally, Hasiru Ratha's activities are about maintenance of saplings. We have
 found that just planting a sapling gives it very less chances of growing into a
 tree, so Hasiru Rathas focus is doing all the nessecary things to take care of
@@ -47,7 +47,7 @@ the branches, shoots between the ground level and 3 feet so that the sapling
 continues to grow taller. We remove the mesh-gaurd to reused for another
 sapling. We provide a taller support so that it continues to grow straight. 
 
-<img src="/about/SupportHeight.jpeg" alt="Hasiru-Ratha" style="height:200px; float:right"/>
+<img src="/img/about/SupportHeight.jpeg" alt="Hasiru-Ratha" style="height:200px; float:right"/>
 The duration of this process would be about 6 months to 2 years, depending on
 the type of sapling. During this
 period Hasiru Ratha members generally keep out a vigil for the plants so that

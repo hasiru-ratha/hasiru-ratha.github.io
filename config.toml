@@ -26,4 +26,5 @@ theme = "hugo-creative-portfolio-theme"
 
 [[params.navlinks]]
   name = "Media"
-  url = "Media"
+  url = "media/"
+
