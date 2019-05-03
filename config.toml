@@ -7,6 +7,7 @@ theme = "hugo-creative-portfolio-theme"
 [params]
     style = "default"
     copyright = "&copy;2019 Hasiru-Ratha"
+    description = "Hasiru Ratha is a volunteer based organization involved in planting and sustaining saplings around South Bangalore. Our intention is to not only plant saplings but also provide for them till they grow into trees"
     sidebarAbout = [
     "We are volunteer based organization involved in planting and sustaining saplings around South Bangalore. Our intention is to not only plant saplings but also provide for them till they grow into trees"
     ]
@@ -27,4 +28,3 @@ theme = "hugo-creative-portfolio-theme"
 [[params.navlinks]]
   name = "Media"
   url = "media/"
-
